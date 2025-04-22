@@ -16,5 +16,5 @@ train.ipynb : file xử lý dữ liệu và train mô hình
 
   2.chạy lệnh sau trên cmd
   
-    pip install streamlit.
+    pip install streamlit
     streamlit run app.py
