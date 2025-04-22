@@ -12,9 +12,9 @@ train.ipynb : file xử lý dữ liệu và train mô hình
 
 **chạy mô hình:
 
-  1. clone repo về máy
+1. clone repo về máy
 
-  2.chạy lệnh sau trên cmd
+2.chạy lệnh sau trên cmd
   
     pip install streamlit
     streamlit run app.py
